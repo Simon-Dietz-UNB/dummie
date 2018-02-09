@@ -1,0 +1,12 @@
+public class testclass {
+
+int i = 0;
+
+public int increment() {
+
+i ++;
+
+return i;
+
+}
+}
